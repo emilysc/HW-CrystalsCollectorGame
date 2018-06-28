@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.heading {
+    font-size: 36px;
+    width: 340px;
+    background:orange;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.container {
+    clear: both;
+}
+
+.instructionBox {
+    width: 400px;
+    background: #FAEBD7;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.numberBox {
+    float: left;
+    width: 200px;
+    height: 100px;
+    background: #4CAF50;
+    padding: 5px;
+}
+
+.informationBox {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #4CAF50;
+    margin-left:5px;
+    padding: 5px;
+}
+.informationBox p {
+    margin: 0;
+}
+
+.smallBox {
+    width: 200px;
+    background:pink;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.scoreBox {
+    width: 200px;
+    height: 100px;
+    background:pink;
+    padding: 5px;
+}
